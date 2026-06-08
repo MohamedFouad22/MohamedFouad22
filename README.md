@@ -27,8 +27,8 @@ Building scalable, secure, and high-performance backend applications.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=dark&exclude_repo=MohamedFouad22" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFouad22&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedFouad22&theme=tokyonight" />
 </div>
 
 ---

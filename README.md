@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f1d,100:000000&height=180&section=header&text=Mohamed%20A.%20Fouad&fontSize=50&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Mohamed%20A.%20Fouad&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark" />
 
 # ⚡ Mohamed A. Fouad
 
@@ -27,8 +27,8 @@ Building scalable, secure, and high-performance backend applications.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0f1d" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&exclude_repo=MohamedFouad22" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=dark&exclude_repo=MohamedFouad22" />
 </div>
 
 ---

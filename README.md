@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Mohamed%20A.%20Fouad&fontSize=50&fontAlignY=35&animation=twinkling&theme=dark" />
 
-# ⚡ Mohamed A. Fouad
+# ⚡ Mohamed Ahmed Fouad
 
 ### Node.js & TypeScript Backend Developer
 

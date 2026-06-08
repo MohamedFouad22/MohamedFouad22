@@ -52,7 +52,7 @@ Building scalable, secure, and high-performance backend applications.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://mohamed-ahmed-fouad.vercel.app" target="_blank">
+  <a href="https://mohamed-ahmed-fouad.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>

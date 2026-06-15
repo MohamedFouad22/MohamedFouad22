@@ -59,14 +59,28 @@
 
 ---
 
+## 📂 Featured Projects
+
+#### 📱 [Social Media Application Backend](https://github.com/MohamedFouad22)
+> A comprehensive and scalable backend system featuring real-time messaging, post feeds, and cloud-based file management. Built with cutting-edge asynchronous processing.
+* **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Socket.io
+* **Key Feature:** Custom database repository wrapper layer optimized for complex custom filters and aggregate query structures.
+
+#### ✉️ [Sara7a App API](https://github.com/MohamedFouad22)
+> A secure RESTful API for an anonymous messaging platform focusing on robust user data encryption and private text transmission.
+* **Tech Stack:** Node.js, Express, MongoDB, Mongoose
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  
   <br /><br />
+  
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=react-dark&hide_border=true" alt="Mohamed's Activity Graph" />
-  <br /><br />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---

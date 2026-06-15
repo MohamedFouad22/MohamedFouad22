@@ -63,7 +63,8 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.vercel.app/?user=MohamedFouad22&theme=tokyonight&hide_border=true&v=1" alt="Mohamed's Streak Stats" />
+  <br /><br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyonight&hide_border=true" alt="Mohamed's Activity Graph" />
   <br /><br />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>

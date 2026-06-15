@@ -35,6 +35,13 @@
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
+### 🔒 Security & Best Practices
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-Red?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+</p>
+
 ### 🛠️ Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +63,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFouad22&theme=tokyonight&hide_border=true" alt="Mohamed's Streak Stats" />
+  <img height="180" src="https://github-readme-streak-stats.vercel.app/?user=MohamedFouad22&theme=tokyonight&hide_border=true" alt="Mohamed's Streak Stats" />
   <br /><br />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>

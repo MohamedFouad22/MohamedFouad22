@@ -66,10 +66,15 @@
 * **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Socket.io
 * **Key Feature:** Custom database repository wrapper layer optimized for complex custom filters and aggregate query structures.
 
-#### ✉️ [Sara7a App API](https://github.com/MohamedFouad22/Sara7a-Application.git)
+#### ✉️ [Sara7a Application Backend](https://github.com/MohamedFouad22/Sara7a-Application.git)
 > A secure RESTful API for an anonymous messaging platform focusing on robust user data encryption and private text transmission.
 * **Tech Stack:** Node.js, Express, MongoDB, Mongoose
 
+# 💬 [Nova Chat Application Backend](https://github.com/MohamedFouad22/Nova_Chat-Application.git)
+> A production-ready, highly secure real-time messaging platform backend engine engineered for instant communication and scalable media streaming.
+* **Tech Stack:** Node.js, TypeScript, Express.js, Socket.io, AWS S3, Zod, MongoDB, Mongoose
+
+---
 ---
 
 ## 📊 GitHub Statistics

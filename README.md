@@ -62,15 +62,14 @@
 ## 📂 Featured Projects
 
 #### 📱 [Social Media Application Backend](https://github.com/MohamedFouad22/Social-Media-Application.git)
-> A comprehensive and scalable backend system featuring real-time messaging, post feeds, and cloud-based file management. Built with cutting-edge asynchronous processing.
-* **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Socket.io
-* **Key Feature:** Custom database repository wrapper layer optimized for complex custom filters and aggregate query structures.
+> A comprehensive and scalable backend system featuring real-time messaging, post feeds, and cloud-based file management, built with cutting-edge asynchronous processing.
+* **Tech Stack:** Node.js, TypeScript, Express.js, Socket.io, MongoDB, Mongoose
 
 #### ✉️ [Sara7a Application Backend](https://github.com/MohamedFouad22/Sara7a-Application.git)
 > A secure RESTful API for an anonymous messaging platform focusing on robust user data encryption and private text transmission.
-* **Tech Stack:** Node.js, Express, MongoDB, Mongoose
+* **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose
 
-# 💬 [Nova Chat Application Backend](https://github.com/MohamedFouad22/Nova_Chat-Application.git)
+#### 💬 [Nova Chat Application Backend](https://github.com/MohamedFouad22/Nova_Chat-Application.git)
 > A production-ready, highly secure real-time messaging platform backend engine engineered for instant communication and scalable media streaming.
 * **Tech Stack:** Node.js, TypeScript, Express.js, Socket.io, AWS S3, Zod, MongoDB, Mongoose
 

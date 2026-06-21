@@ -61,12 +61,12 @@
 
 ## 📂 Featured Projects
 
-#### 📱 [Social Media Application Backend](https://github.com/MohamedFouad22)
+#### 📱 [Social Media Application Backend](https://github.com/MohamedFouad22/Social-Media-Application.git)
 > A comprehensive and scalable backend system featuring real-time messaging, post feeds, and cloud-based file management. Built with cutting-edge asynchronous processing.
 * **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Socket.io
 * **Key Feature:** Custom database repository wrapper layer optimized for complex custom filters and aggregate query structures.
 
-#### ✉️ [Sara7a App API](https://github.com/MohamedFouad22)
+#### ✉️ [Sara7a App API]([https://github.com/MohamedFouad22](https://github.com/MohamedFouad22/Sara7a-Application.git))
 > A secure RESTful API for an anonymous messaging platform focusing on robust user data encryption and private text transmission.
 * **Tech Stack:** Node.js, Express, MongoDB, Mongoose
 

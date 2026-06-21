@@ -66,7 +66,7 @@
 * **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Socket.io
 * **Key Feature:** Custom database repository wrapper layer optimized for complex custom filters and aggregate query structures.
 
-#### ✉️ [Sara7a App API]([https://github.com/MohamedFouad22](https://github.com/MohamedFouad22/Sara7a-Application.git))
+#### ✉️ [Sara7a App API](https://github.com/MohamedFouad22/Sara7a-Application.git)
 > A secure RESTful API for an anonymous messaging platform focusing on robust user data encryption and private text transmission.
 * **Tech Stack:** Node.js, Express, MongoDB, Mongoose
 

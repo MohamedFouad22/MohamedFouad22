@@ -38,7 +38,6 @@ I'm a passionate Backend Developer focused on building scalable, secure, and pro
 - 🔹 Mastering NestJS
 - 🔹 Designing Enterprise REST APIs
 - 🔹 Learning Microservices
-- 🔹 Exploring RabbitMQ & Kafka
 - 🔹 Improving System Design skills
 - 🔹 Backend Performance Optimization
 - 🔹 Secure Authentication & Authorization
@@ -80,174 +79,226 @@ I'm a passionate Backend Developer focused on building scalable, secure, and pro
 </p>
 
 ---
+## 💼 Core Expertise
 
-# ⚡ Backend Expertise
+<table>
+<tr>
+<td>
 
-✔ REST APIs
+### 🔐 Security
 
-✔ Authentication
+- JWT
+- OAuth
+- RBAC
+- Helmet
+- CORS
+- Rate Limiting
 
-✔ Authorization
+</td>
 
-✔ JWT
+<td>
 
-✔ OAuth
+### 🌐 API Development
 
-✔ Email Verification
+- REST APIs
+- Validation
+- Pagination
+- Search
+- Error Handling
+- Logging
 
-✔ File Upload
+</td>
+</tr>
 
-✔ Cloud Storage
+<tr>
+<td>
 
-✔ WebSockets
-
-✔ Socket.io
-
-✔ MongoDB
-
-✔ Mongoose
-
-✔ API Validation
-
-✔ Error Handling
-
-✔ Async Programming
-
-✔ MVC Architecture
-
-✔ Clean Code
-
-✔ Secure APIs
-
-✔ Pagination
-
-✔ Search
-
-✔ Role Based Access Control
-
-✔ Password Hashing
-
-✔ Rate Limiting
-
-✔ API Security
-
-✔ Middleware
-
-✔ Environment Variables
-
-✔ CORS
-
-✔ Helmet
-
-✔ Cookies
-
-✔ Refresh Tokens
-
-✔ Logging
-
-✔ Enterprise Backend Development
-
----
-
-# 📂 Featured Projects
-
-## 🌐 Social Media Application Backend
-
-A scalable backend system featuring authentication, real-time chat, cloud storage, posts, comments, likes, notifications, and secure REST APIs.
-
-### Technologies
+### ⚙️ Backend
 
 - Node.js
 - Express.js
-- TypeScript
+- NestJS
+- Socket.io
+- Middleware
+- Async Programming
+
+</td>
+
+<td>
+
+### 🗄 Database
+
 - MongoDB
 - Mongoose
-- Socket.io
-- JWT
-- AWS S3
+- Aggregation
+- Indexing
+- Transactions
+- Cloud Storage
 
-### Features
-
-- User Authentication
-- Email Verification
-- Cloud Upload
-- Posts
-- Comments
-- Likes
-- Chat System
-- Real-time Messaging
-- Notifications
-- Secure REST APIs
-
-Repository
-
-https://github.com/MohamedFouad22/Social-Media-Application
+</td>
+</tr>
+</table>
 
 ---
+# 📂 Featured Projects
 
-## 💬 Nova Chat Backend
+<table>
 
-Production-ready backend for real-time messaging applications.
+<tr>
 
-### Technologies
+<td width="50%" valign="top">
 
-- Node.js
-- Express.js
-- TypeScript
-- Socket.io
-- MongoDB
-- AWS S3
-- Zod
+<h2>🌐 Social Media Backend</h2>
 
-### Features
+<p>
+A scalable social media backend featuring authentication, real-time messaging, cloud storage, and enterprise-grade REST APIs.
+</p>
 
-- Authentication
-- Real-time Chat
-- Media Upload
-- File Sharing
-- Online Users
-- Typing Indicator
-- Read Receipts
-- Secure APIs
+### 🚀 Highlights
 
-Repository
+* 🔐 JWT Authentication
+* 📧 Email Verification
+* 💬 Real-time Chat
+* ☁️ AWS S3 File Upload
+* 📝 Posts & Comments
+* ❤️ Likes System
+* 🔔 Notifications
+* 🛡 Secure REST APIs
 
-https://github.com/MohamedFouad22/Nova_Chat-Application
+### 🛠 Tech Stack
+
+`Node.js` `Express.js` `TypeScript`
+
+`MongoDB` `Mongoose`
+
+`Socket.io`
+
+`AWS S3`
+
+### 🔗 Repository
+
+<a href="https://github.com/MohamedFouad22/Social-Media-Application">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>💬 Nova Chat Backend</h2>
+
+<p>
+A production-ready real-time messaging backend focused on scalability, security, and high-performance communication.
+</p>
+
+### 🚀 Highlights
+
+* 🔐 Authentication
+* 💬 Real-time Messaging
+* 📁 Media Sharing
+* 🟢 Online Presence
+* ⌨️ Typing Indicator
+* ✔ Read Receipts
+* ☁️ AWS S3 Upload
+* 🛡 Secure APIs
+
+### 🛠 Tech Stack
+
+`Node.js`
+
+`Express.js`
+
+`TypeScript`
+
+`MongoDB`
+
+`Socket.io`
+
+`AWS S3`
+
+`Zod`
+
+### 🔗 Repository
+
+<a href="https://github.com/MohamedFouad22/Nova_Chat-Application">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>✉ Sara7a Backend</h2>
+
+<p>
+A secure anonymous messaging platform built with modern backend technologies and RESTful architecture.
+</p>
+
+### 🚀 Highlights
+
+* 🔐 Authentication
+* 📩 Anonymous Messages
+* ✔ Validation
+* 🛡 Security
+* 🌐 REST APIs
+
+### 🛠 Tech Stack
+
+`Node.js`
+
+`Express.js`
+
+`MongoDB`
+
+`JWT`
+
+### 🔗 Repository
+
+<a href="https://github.com/MohamedFouad22/Sara7a-Application">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🚀 More Projects</h2>
+
+<p>
+Explore additional backend projects, experiments, and learning repositories on my GitHub profile.
+</p>
+
+### Includes
+
+* Backend APIs
+* Authentication Systems
+* MongoDB Projects
+* TypeScript Applications
+* NestJS Learning
+* Open Source Contributions
+
+### 🔗 GitHub
+
+<a href="https://github.com/MohamedFouad22">
+Visit My GitHub →
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
-## ✉ Sara7a Backend
-
-Anonymous messaging backend with secure authentication.
-
-### Technologies
-
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-
-### Features
-
-- Authentication
-- Anonymous Messages
-- Security
-- Validation
-- REST APIs
-
-Repository
-
-https://github.com/MohamedFouad22/Sara7a-Application
-
----
-
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -255,7 +306,7 @@ https://github.com/MohamedFouad22/Sara7a-Application
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedFouad22&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -267,121 +318,73 @@ https://github.com/MohamedFouad22/Sara7a-Application
 
 </div>
 
-<br>
+---# 🏗 Architecture & Best Practices
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedFouad22&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<td valign="top" width="25%">
 
-</div>
+### 🏛 Architecture
 
----
+* Clean Architecture
+* MVC Pattern
+* Repository Pattern
+* Dependency Injection
+* Scalable Backend
+* API Versioning
 
-# 🏗 Architecture & Best Practices
+</td>
 
-✔ Clean Architecture
+<td valign="top" width="25%">
 
-✔ MVC Pattern
+### 🔐 Security
 
-✔ RESTful APIs
+* Authentication
+* Authorization
+* JWT
+* OAuth
+* RBAC
+* Password Hashing
+* Refresh Tokens
+* Helmet
+* CORS
 
-✔ Repository Pattern
+</td>
 
-✔ Dependency Injection
+<td valign="top" width="25%">
 
-✔ DTO Validation
+### 🌐 API Design
 
-✔ Error Handling
+* RESTful APIs
+* DTO Validation
+* Error Handling
+* Pagination
+* Filtering
+* Searching
+* Logging
+* Rate Limiting
 
-✔ Authentication
+</td>
 
-✔ Authorization
+<td valign="top" width="25%">
 
-✔ RBAC
+### ⚙️ Backend
 
-✔ Rate Limiting
+* Async Programming
+* Environment Variables
+* Secure File Upload
+* Cloud Storage
+* Socket.io
+* Middleware
+* Production Ready
 
-✔ Helmet
+</td>
 
-✔ CORS
-
-✔ Password Hashing
-
-✔ JWT
-
-✔ OAuth
-
-✔ Refresh Tokens
-
-✔ API Versioning
-
-✔ Pagination
-
-✔ Filtering
-
-✔ Searching
-
-✔ Logging
-
-✔ Async Programming
-
-✔ Environment Variables
-
-✔ Secure File Upload
-
-✔ Cloud Storage
-
-✔ Socket.io
-
-✔ Scalable Backend Design
+</tr>
+</table>
 
 ---
-
-# 🎯 2026 Roadmap
-
-- ✅ Advanced NestJS
-- ✅ Redis
-- ✅ Docker
-- ✅ Microservices
-- ✅ RabbitMQ
-- ✅ Kafka
-- ✅ System Design
-- ✅ AWS
-- ✅ CI/CD
-- ✅ Kubernetes
-- ✅ Design Patterns
-- ✅ Unit Testing
-- ✅ Integration Testing
-
----
-
-# 📚 Currently Learning
-
-```text
-██████████████████░░░░░░░░ 75%
-
-Node.js            ██████████████
-NestJS             ████████████
-TypeScript         ██████████████
-System Design      ████████
-Microservices      ██████
-Docker             ███████
-Redis              █████
-Kafka              ███
-```
-
----
-
-# 🏆 Certifications
-
-- 🥇 Enterprise Node.js & NestJS Backend Development
-- 🥇 JavaScript
-- 🥇 TypeScript
-- 🥇 Git & GitHub
-- 🥇 MongoDB
-- 🥇 REST APIs
-- 🥇 Backend Development
-
 ---
 
 # 💼 Services

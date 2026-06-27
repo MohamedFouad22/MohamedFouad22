@@ -402,16 +402,6 @@ Visit My GitHub →
 
 ---
 
-# 🌍 Open Source Goals
-
-- Contribute to open source projects
-- Build reusable backend packages
-- Share backend knowledge
-- Publish scalable backend templates
-- Help developers learn backend engineering
-
----
-
 # 📈 Development Philosophy
 
 > Write clean code.
@@ -460,18 +450,6 @@ Visit My GitHub →
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MohamedFouad22/MohamedFouad22/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-> **Note:** The snake animation requires a GitHub Action to generate it. If you haven't set it up yet, the image won't appear.
-
----
-
 # 💬 Random Developer Quote
 
 <div align="center">
@@ -479,16 +457,6 @@ Visit My GitHub →
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
----
-
-# 💡 Fun Facts
-
-- 💙 I enjoy building scalable backend systems.
-- ⚙️ I love solving API design challenges.
-- 🔒 Security is a core part of every project I build.
-- 🚀 I continuously improve my backend engineering skills.
-- 📚 I enjoy learning new technologies and best practices.
 
 ---
 
@@ -509,24 +477,9 @@ Visit My GitHub →
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,javascript,mongodb,git,github,linux,postman,vscode,docker&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,javascript,mongodb,git,github,postman,vscode&perline=6"/>
 
 </div>
-
----
-
-# 📫 Let's Build Something Great Together
-
-I'm always interested in collaborating on:
-
-- Enterprise Backend Applications
-- REST APIs
-- Real-time Applications
-- Open Source Projects
-- Backend Architecture
-- Node.js & NestJS Projects
-
-Feel free to reach out if you'd like to collaborate or discuss backend development.
 
 ---
 
@@ -535,7 +488,5 @@ Feel free to reach out if you'd like to collaborate or discuss backend developme
 ## Thanks for Visiting ❤️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:3b82f6"/>
-
-### ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>

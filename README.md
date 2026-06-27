@@ -318,7 +318,9 @@ Visit My GitHub →
 
 </div>
 
----# 🏗 Architecture & Best Practices
+---
+
+# 🏗 Architecture & Best Practices
 
 <table>
 <tr>

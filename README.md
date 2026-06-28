@@ -83,63 +83,73 @@ I'm a passionate Backend Developer focused on building scalable, secure, and pro
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 🔐 Security
+### 🔐 Cyber Security
 
-- JWT
-- OAuth
-- RBAC
-- Helmet
-- CORS
-- Rate Limiting
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+<img src="https://img.shields.io/badge/OAuth_2.0-231F20?style=flat-square&logo=oauth&logoColor=white" alt="OAuth"><br>
+<img src="https://img.shields.io/badge/RBAC-Access_Control-0052CC?style=flat-square" alt="RBAC">
+<img src="https://img.shields.io/badge/Helmet-🛡️-gray?style=flat-square" alt="Helmet"><br>
+<img src="https://img.shields.io/badge/CORS-Secured-informational?style=flat-square" alt="CORS">
+<img src="https://img.shields.io/badge/Rate_Limiting-⏱️-red?style=flat-square" alt="Rate Limiting">
+
+<ul>
+  <li>Data Protection & Secure Request Headers</li>
+  <li>Role-Based Access Control Implementation</li>
+</ul>
 
 </td>
-
-<td>
+<td width="50%" valign="top">
 
 ### 🌐 API Development
 
-- REST APIs
-- Validation
-- Pagination
-- Search
-- Error Handling
-- Logging
+<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/Data_Validation-Zod/Joi-blueviolet?style=flat-square" alt="Validation"><br>
+<img src="https://img.shields.io/badge/Error_Handling-Global-red?style=flat-square" alt="Error Handling">
+<img src="https://img.shields.io/badge/Logging-Winston/Morgan-orange?style=flat-square" alt="Logging">
+
+<ul>
+  <li>Advanced Pagination, Filtering & Search Queries</li>
+  <li>Enterprise-grade Architectural Patterns</li>
+</ul>
 
 </td>
 </tr>
-
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### ⚙️ Backend
+### ⚙️ Backend Architecture
 
-- Node.js
-- Express.js
-- NestJS
-- Socket.io
-- Middleware
-- Async Programming
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"><br>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+
+<ul>
+  <li>Custom Middlewares & Asynchronous Programming</li>
+  <li>Event-Driven & Real-Time Communications</li>
+</ul>
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### 🗄 Databases & Storage
 
-### 🗄 Database
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Mongoose_ORM-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"><br>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary">
 
-- MongoDB
-- Mongoose
-- Aggregation
-- Indexing
-- Transactions
-- Cloud Storage
+<ul>
+  <li>Complex Aggregation Pipelines & Indexing Optimization</li>
+  <li>Database Transactions & Secure Cloud Uploads</li>
+</ul>
 
 </td>
 </tr>
-</table>
-
----
+</table>---
 # 📂 Featured Projects
 
 <table>

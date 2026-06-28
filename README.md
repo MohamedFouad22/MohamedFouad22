@@ -28,11 +28,17 @@
 
 # 💫 About Me
 
-I'm a passionate Backend Developer focused on building scalable, secure, and production-ready applications. 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Ahmed&fontSize=50&animation=fadeIn&theme=tokyonight" alt="Header" />
+</p>
 
-I enjoy solving complex backend challenges while writing clean, maintainable, and efficient code. 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt="Views" />
+</div>
 
-My primary focus is developing enterprise-level APIs with modern backend technologies and best practices.
+<br>
+
+I'm a passionate **Backend Developer** focused on building scalable, secure, and production-ready applications. I enjoy solving complex backend challenges while writing clean, maintainable, and efficient code. My primary focus is developing enterprise-level APIs with modern backend technologies and best practices.
 
 ---
 

@@ -149,7 +149,9 @@ I'm a passionate Backend Developer focused on building scalable, secure, and pro
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 # 📂 Featured Projects
 
 <table>

@@ -143,156 +143,90 @@ I'm a passionate Backend Developer focused on building scalable, secure, and pro
 # 📂 Featured Projects
 
 <table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🌐 Social Media Backend</h2>
-
-<p>
-A scalable social media backend featuring authentication, real-time messaging, cloud storage, and enterprise-grade REST APIs.
-</p>
-
-### 🚀 Highlights
-
-* 🔐 JWT Authentication
-* 📧 Email Verification
-* 💬 Real-time Chat
-* ☁️ AWS S3 File Upload
-* 📝 Posts & Comments
-* ❤️ Likes System
-* 🔔 Notifications
-* 🛡 Secure REST APIs
-
-### 🛠 Tech Stack
-
-`Node.js` `Express.js` `TypeScript`
-
-`MongoDB` `Mongoose`
-
-`Socket.io`
-
-`AWS S3`
-
-### 🔗 Repository
-
-<a href="https://github.com/MohamedFouad22/Social-Media-Application">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>💬 Nova Chat Backend</h2>
-
-<p>
-A production-ready real-time messaging backend focused on scalability, security, and high-performance communication.
-</p>
-
-### 🚀 Highlights
-
-* 🔐 Authentication
-* 💬 Real-time Messaging
-* 📁 Media Sharing
-* 🟢 Online Presence
-* ⌨️ Typing Indicator
-* ✔ Read Receipts
-* ☁️ AWS S3 Upload
-* 🛡 Secure APIs
-
-### 🛠 Tech Stack
-
-`Node.js`
-
-`Express.js`
-
-`TypeScript`
-
-`MongoDB`
-
-`Socket.io`
-
-`AWS S3`
-
-`Zod`
-
-### 🔗 Repository
-
-<a href="https://github.com/MohamedFouad22/Nova_Chat-Application">
-View Project →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>✉ Sara7a Backend</h2>
-
-<p>
-A secure anonymous messaging platform built with modern backend technologies and RESTful architecture.
-</p>
-
-### 🚀 Highlights
-
-* 🔐 Authentication
-* 📩 Anonymous Messages
-* ✔ Validation
-* 🛡 Security
-* 🌐 REST APIs
-
-### 🛠 Tech Stack
-
-`Node.js`
-
-`Express.js`
-
-`MongoDB`
-
-`JWT`
-
-### 🔗 Repository
-
-<a href="https://github.com/MohamedFouad22/Sara7a-Application">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🚀 More Projects</h2>
-
-<p>
-Explore additional backend projects, experiments, and learning repositories on my GitHub profile.
-</p>
-
-### Includes
-
-* Backend APIs
-* Authentication Systems
-* MongoDB Projects
-* TypeScript Applications
-* NestJS Learning
-* Open Source Contributions
-
-### 🔗 GitHub
-
-<a href="https://github.com/MohamedFouad22">
-Visit My GitHub →
-</a>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Social Media Backend</h3>
+      <p>A scalable social media backend featuring authentication, real-time messaging, cloud storage, and enterprise-grade REST APIs.</p>
+      <h4>🚀 Highlights</h4>
+      <ul>
+        <li>🔐 JWT Authentication & Email Verification</li>
+        <li>💬 Real-time Chat & Notifications</li>
+        <li>☁️ AWS S3 File Upload Integration</li>
+        <li>📝 Posts, Comments & Likes System</li>
+      </ul>
+      <h4>🛠 Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
+      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3">
+      <br><br>
+      <a href="https://github.com/MohamedFouad22/Social-Media-Application" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-🔍-blueviolet?style=for-the-badge" alt="View Repo">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Nova Chat Backend</h3>
+      <p>A production-ready real-time messaging backend focused on scalability, security, and high-performance communication.</p>
+      <h4>🚀 Highlights</h4>
+      <ul>
+        <li>🔐 Secure Authentication & Session Management</li>
+        <li>🟢 Online Presence & Typing Indicators</li>
+        <li>✔ Read Receipts & Media Sharing</li>
+        <li>☁️ Optimized AWS S3 Uploads</li>
+      </ul>
+      <h4>🛠 Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
+      <br><br>
+      <a href="https://github.com/MohamedFouad22/Nova_Chat-Application" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-🔍-blueviolet?style=for-the-badge" alt="View Repo">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✉ Sara7a Backend</h3>
+      <p>A secure anonymous messaging platform built with modern backend technologies and RESTful architecture.</p>
+      <h4>🚀 Highlights</h4>
+      <ul>
+        <li>🔐 JWT Authentication</li>
+        <li>📩 Anonymous Messages Delivery</li>
+        <li>🛡 Input Validation & Data Security</li>
+        <li>🌐 Clean RESTful Endpoints</li>
+      </ul>
+      <h4>🛠 Tech Stack</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"><br>
+      <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+      <br><br>
+      <a href="https://github.com/MohamedFouad22/Sara7a-Application" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-🔍-blueviolet?style=for-the-badge" alt="View Repo">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ More Projects</h3>
+      <p>Explore additional backend projects, advanced architectural patterns, and cutting-edge implementations.</p>
+      <h4>Includes</h4>
+      <ul>
+        <li>⚙ Robust Backend APIs & Microservices</li>
+        <li>🏆 Advanced NestJS Core & Architecture</li>
+        <li>🛡 Cyber Security & Penetration Testing labs</li>
+        <li>💡 Algorithmic Solutions & Open Source</li>
+      </ul>
+      <br><br><br>
+      <a href="https://github.com/MohamedFouad22" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_GitHub-🚀-cyan?style=for-the-badge" alt="GitHub Profile">
+      </a>
+    </td>
+  </tr>
 </table>
-
 ---
 <div align="center">
 

@@ -28,17 +28,23 @@
 
 # 💫 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Ahmed&fontSize=50&animation=fadeIn&theme=tokyonight" alt="Header" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blueviolet?style=for-the-badge&logo=target" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Security-Defensive%20%26%20Offensive-red?style=for-the-badge&logo=shorby" alt="Security"/>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" alt="Views" />
-</div>
+---
 
-<br>
+### 💻 Profile
+> **"Turning complex logic into scalable, secure, and production-ready APIs."**
+> I enjoy solving complex backend challenges while writing clean, maintainable, and efficient code with a strong focus on modern architectural patterns and modern backend best practices.
 
-I'm a passionate **Backend Developer** focused on building scalable, secure, and production-ready applications. I enjoy solving complex backend challenges while writing clean, maintainable, and efficient code. My primary focus is developing enterprise-level APIs with modern backend technologies and best practices.
+---
+
+### 🛠️ Core Focus
+- 🌐 **Scalable APIs:** Building enterprise-level RESTful and real-time architectures.
+- 🔒 **Security-First:** Writing secure code with defensive programming mindsets.
+- ⚡ **Performance:** Optimizing database queries and system throughput.
 
 ---
 

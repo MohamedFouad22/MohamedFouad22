@@ -262,7 +262,6 @@
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 

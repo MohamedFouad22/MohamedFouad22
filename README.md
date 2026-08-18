@@ -177,8 +177,8 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFouad22&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">

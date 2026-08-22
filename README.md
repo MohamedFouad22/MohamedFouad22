@@ -172,20 +172,21 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 
 ---
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=MohamedFouad22&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
 ### 📊 GitHub Statistics
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true)
 
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true)
 
 ---
 

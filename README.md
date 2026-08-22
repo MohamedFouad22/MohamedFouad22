@@ -174,9 +174,9 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 
 ### 📊 GitHub Overview
 
-![](https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true)
+![](https://komarev.com/ghpvc/?username=MohamedFouad22&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true)
 

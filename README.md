@@ -172,21 +172,15 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Overview
 
-![](https://github-profile-trophy.vercel.app/?username=MohamedFouad22&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-### 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true)
+
+![](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,mongodb,angular,git,github,vscode,docker,postman&perline=12)
 
 ---
 

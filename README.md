@@ -172,15 +172,20 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Statistics
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=MohamedFouad22&color=7aa2f7&style=flat-square&label=Profile+Views)
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=MohamedFouad22&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true)
+<p align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true" />
+</p>
 
-![](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,mongodb,angular,git,github,vscode,docker,postman&perline=12)
+</div>
 
 ---
 

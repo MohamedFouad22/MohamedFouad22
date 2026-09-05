@@ -182,7 +182,7 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 </p>
 
 <p align="center">
-<img width="98%" src="https://ghchart.rshah.org/3b82f6/MohamedFouad22" alt="GitHub Contributions Chart" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedFouad22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>

@@ -177,12 +177,12 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 <div align="center">
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=MohamedFouad22&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedFouad22&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFouad22&theme=tokyo-night&hide_border=true" />
+<img width="98%" src="https://ghchart.rshah.org/3b82f6/MohamedFouad22" alt="GitHub Contributions Chart" />
 </p>
 
 </div>
@@ -190,10 +190,6 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1e3a8a,100:3b82f6"/>
 

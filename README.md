@@ -48,7 +48,7 @@ I focus on building enterprise-level backend solutions with **Node.js, TypeScrip
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js"/> |
 | **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/> |
 | **Databases & ORM** | <img src="https://skillicons.dev/icons?i=mongodb"/> |
-| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,npm"/> |
 
 </div>
 
